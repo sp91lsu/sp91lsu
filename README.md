@@ -1,9 +1,8 @@
 # Stack
 * Java
-* JSP
-* Html,CSS,JS
-* Jquery,Bootstrap
+* Html,CSS,JS,Jquery,Bootstrap,JSP
 * Mybatis & JPA
+* Oracle
 * Spring(boot)
 
 # Development Environment
