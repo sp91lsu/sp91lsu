@@ -36,6 +36,10 @@
   * [: 책_스프링 부트와 AWS로 혼자 구현하는 웹 서비스 - 이동욱 - 프리렉 출판사](https://book.naver.com/bookdb/book_detail.nhn?bid=15871738) Ch.1~Ch.5
 - [ ] [SpringBoot + JPA AWS 인프라 활용 무중단 배포]
   * [: 책_스프링 부트와 AWS로 혼자 구현하는 웹 서비스 - 이동욱 - 프리렉 출판사](https://book.naver.com/bookdb/book_detail.nhn?bid=15871738) Ch.6~End
+- [ ] [자바 디자인 패턴]
+- [ ] [vue.js]
+- [ ] [Linux]
+- [ ] [Shell Scripting]
 - [ ] [Spring & JPA 중급]
   * [인프런 사이트_"김영한님의 로드맵"](https://www.inflearn.com/users/@yh/roadmaps)
 
