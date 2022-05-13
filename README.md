@@ -1,4 +1,4 @@
-<!-- ## Stack
+## Stack
 * Java
 * Html,CSS,JS,Jquery,Bootstrap,JSP
 * Mybatis & JPA
@@ -48,6 +48,6 @@
 학원명: 코리아IT아카데미 <br>
 과정명: Java 프레임웍기반 풀스텍 양성A <br>
 훈련기간: 2020-04-03 ~ 2020-12-10 (1회차) <br>
-훈련 시간: 156일, 총856시간 -->
+훈련 시간: 156일, 총856시간
 
 
