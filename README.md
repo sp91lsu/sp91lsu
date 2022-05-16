@@ -1,4 +1,4 @@
-## Stack
+<!-- ## Stack
 * Java
 * Html,CSS,JS,Jquery,Bootstrap,JSP
 * Mybatis & JPA
@@ -51,3 +51,4 @@
 훈련 시간: 156일, 총856시간
 
 
+ -->
